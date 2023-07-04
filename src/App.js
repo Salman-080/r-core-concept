@@ -19,6 +19,7 @@ function App() {
         <Person name="Siddique" nayika="Afrin"></Person>
         <Person name="Niloy" nayika="Jhuma"></Person>
         <br />
+        <br />
         <Person name={heroName[1]}></Person>
 
 
